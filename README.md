@@ -20,7 +20,7 @@ I am a Frontend Web Developer and I make a application to Fullstack by implement
  
  🔭 My vision is to become a successful Snr Fullstack Engineer in the next few years.**.
  
- 🌱 I’m currently learning <img src="https://simpleicons.org/icons/next-dot-js.svg> Next.js
+ 🌱 I’m currently learning  Next.js
   
   👯 I’m looking to collaborate for a React, Next based project.
   
