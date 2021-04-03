@@ -15,9 +15,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://divbuilder-740a4.web.app/images/designer.jpg" width="100%" title="Intro Card" alt="Intro Card">
-</p>
 
 I am a Frontend Web Developer and I make a application to Fullstack by implementing Firebase fuctionalities. I make software solutions and derive joy in it.
  
@@ -58,9 +55,8 @@ I am a Frontend Web Developer and I make a application to Fullstack by implement
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodexpathCommunity&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
 
 ---
 
