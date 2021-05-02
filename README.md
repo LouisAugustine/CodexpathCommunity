@@ -24,7 +24,7 @@ I am a Frontend Web Developer and I make a application to Fullstack by implement
   
   👯 I’m looking to collaborate in a Reactjs, Nextjs based project.
   
-  😄 I Love recording a my code-fi inspirational songs and Playing the durm for run.
+  😄 I Love recording my code-fi inspirational songs and Playing the durm for fun.
   
  💬 Ask me about Frontend Development, Firebase, and any Tech-related stuff.
 
