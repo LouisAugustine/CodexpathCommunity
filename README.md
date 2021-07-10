@@ -1,5 +1,5 @@
 ## Hey Emmanuel here 👋
-### Lead developer at [Divbuilder](https://divbuilder-740a4.web.app/) my personal freelancing company.
+### Lead developer at [Divbuilder](https://divbuilder-740a4.web.app/) my personal freelance company.
 
 <i>Follow me:</i><br>
 
