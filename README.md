@@ -20,13 +20,13 @@ I am a Frontend Web Developer and I make a application to Fullstack by implement
  
  🔭 My vision is to become a successful Snr Fullstack Engineer in the next few years.**.
  
- 🌱 I’m currently learning  Next.js
+ 🌱 I’m currently learning  something new
   
-  👯 I’m looking to collaborate in a Reactjs, Nextjs based project.
+  👯 I’m looking to collaborate in a Reactjs, Nextjs, Node.js and Fullstack web  project.
   
   😄 I Love recording my code-fi inspirational songs and Playing the durm for fun.
   
- 💬 Ask me about Frontend Development, Firebase, and any Tech-related stuff.
+ 💬 Ask me about Frontend Development, Firebase, Node, Web Development, DevOps and any Tech-related stuff.
 
 
 
