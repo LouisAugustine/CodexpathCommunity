@@ -1,7 +1,7 @@
 ## Hey Emmanuel here 👋
 ### Lead developer at [Divbuilder](https://divbuilder-740a4.web.app/) my personal freelance company.
 
-<i>Follow me:</i><br>
+<i>Follow me:</i><&nbsp;>
 
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/codexpath2)
